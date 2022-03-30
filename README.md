@@ -6,3 +6,5 @@ This repo consists of two main files:
 2. Tableau analysis
 
 Please note certain questions are answered only in Tableau due to the easy of visualizing data. The fundamental analysis done in both is the same. However the tableau analysis is more detailed, complete and answers questions at a more granular level.
+
+I also have a medium post that answers some questions from dataset - https://medium.com/@sanjithramesh96/will-everyone-know-how-to-code-in-the-next-10-years-a3ebfdb3f19b
